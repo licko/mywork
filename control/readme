@@ -1,0 +1,3 @@
+这个文件夹里的文件是实现debug开关的控制台，通过这些文件可以编译生成可执行文件来控制相应pid进程打开或是关闭打印调试信息，并可以指定打印到相应文件，-p pid  -s (1/0) 1打开，0关闭，-f指定打印文件位置
+
+This folder files is to realize debug switch console, through these files can compile generating executable file to control the  pid process open or closed print debugging information, and can be specified print to the relevant documents, - p pid, - s (1/0) 1 is open, 0 is close ，-f specified print files
